@@ -9,14 +9,14 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Joao Vitor Freitas Fernandes
+- Matricula: 914121
 - Proposta de projeto escolhida:
 - Breve descrição sobre seu projeto:
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+
 
 ## Print da versão responsiva com Bootstrap [MOBILE] (*)
 
